@@ -1,0 +1,2 @@
+# utncursi
+Curso de bioinformatica 
